@@ -1,2 +1,5 @@
-// This is the library entry point
-export * from './AwesomeLibrary';
+export * from './GithubApiClient';
+export * from './GithubApiEnumerations';
+export * from './GithubApiInterface';
+export * from './GithubApiJsonParser';
+export * from './gitconfig';
