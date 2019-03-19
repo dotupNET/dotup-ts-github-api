@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "name": "dotup-ts-github-api",
   "author": {
     "name": "Peter Ullrich",
@@ -50,7 +50,10 @@
     "url": "git+https://github.com/dotupNET/dotup-ts-github-api.git"
   },
   "keywords": [
-    "TODO"
+    "typscript",
+    "github",
+    "api",
+    "gitconfig"
   ],
   "bugs": {
     "url": "https://github.com/dotupNET/dotup-ts-github-api/issues"
