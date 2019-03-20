@@ -16,6 +16,13 @@
       "problemMatcher": [
         "$tsc"
       ]
+    },
+    {
+      "type": "gulp",
+      "task": "ts-lint",
+      "problemMatcher": [
+        "$eslint-stylish"
+      ]
     }
   ]
 }
